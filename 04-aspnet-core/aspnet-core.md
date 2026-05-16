@@ -1,10 +1,15 @@
-# 🚀 Section4 Aspnet Core — Interview Master Guide
+# 🚀 ASP.NET Core — Interview Master Guide
 
-> 🧠 Styled for fast revision + deep understanding
+> 🧠 Structured for senior-level interview preparation  
+> ⚡ Fast revision + deep understanding  
 
 ---
 
 ## 📌 Overview
+> This section covers key concepts required for real-world interviews.
+
+---
+
 # .NET Interview Preparation - Section 4: ASP.NET Core
 
 ## 13 Years Experience Candidate Answers
@@ -839,12 +844,12 @@ public class RateLimitMiddleware {
 
 ---
 
-## 🎯 Key Takeaways
-- Revise important concepts quickly
-- Focus on interview-ready answers
-- Practice explaining in your own words
+## 🎯 Quick Revision
+- Focus on WHY + HOW  
+- Practice explaining verbally  
+- Think in real-world scenarios  
 
 ---
 
 ## 🎤 Interview Tip
-> Always explain **WHY + HOW**, not just definitions.
+> Don’t just answer — explain trade-offs and real-world usage.

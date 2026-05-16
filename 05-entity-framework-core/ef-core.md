@@ -1,10 +1,15 @@
-# 🚀 Section5 Ef Core — Interview Master Guide
+# 🚀 Entity Framework Core — Interview Master Guide
 
-> 🧠 Styled for fast revision + deep understanding
+> 🧠 Structured for senior-level interview preparation  
+> ⚡ Fast revision + deep understanding  
 
 ---
 
 ## 📌 Overview
+> This section covers key concepts required for real-world interviews.
+
+---
+
 # .NET Interview Preparation - Section 5: Entity Framework Core
 
 ## 13 Years Experience Candidate Answers
@@ -818,12 +823,12 @@ protected override void OnModelCreating(ModelBuilder modelBuilder) {
 
 ---
 
-## 🎯 Key Takeaways
-- Revise important concepts quickly
-- Focus on interview-ready answers
-- Practice explaining in your own words
+## 🎯 Quick Revision
+- Focus on WHY + HOW  
+- Practice explaining verbally  
+- Think in real-world scenarios  
 
 ---
 
 ## 🎤 Interview Tip
-> Always explain **WHY + HOW**, not just definitions.
+> Don’t just answer — explain trade-offs and real-world usage.

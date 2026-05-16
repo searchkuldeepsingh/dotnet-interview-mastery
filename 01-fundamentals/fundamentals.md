@@ -1,10 +1,15 @@
-# 🚀 Section1 Fundamentals — Interview Master Guide
+# 🚀 Fundamentals — Interview Master Guide
 
-> 🧠 Styled for fast revision + deep understanding
+> 🧠 Structured for senior-level interview preparation  
+> ⚡ Fast revision + deep understanding  
 
 ---
 
 ## 📌 Overview
+> This section covers key concepts required for real-world interviews.
+
+---
+
 # .NET Fundamentals
 
 ## Overview
@@ -277,12 +282,12 @@ public int Add(int a, int b)
 
 ---
 
-## 🎯 Key Takeaways
-- Revise important concepts quickly
-- Focus on interview-ready answers
-- Practice explaining in your own words
+## 🎯 Quick Revision
+- Focus on WHY + HOW  
+- Practice explaining verbally  
+- Think in real-world scenarios  
 
 ---
 
 ## 🎤 Interview Tip
-> Always explain **WHY + HOW**, not just definitions.
+> Don’t just answer — explain trade-offs and real-world usage.
