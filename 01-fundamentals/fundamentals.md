@@ -65,7 +65,7 @@ Better than static compilation in many cases
 | Low-level | High-level | Simplified |
 
 #### 🔥 Tip
-Use async/await instead of threads  
+Golden rule: Make all I/O async end-to-end. DB calls, HTTP calls, file reads — every layer from controller to repository should be async Task. One sync call in the middle kills the scalability benefit. 
 
 async/await in .NET Core
 The Problem Thread Starvation
